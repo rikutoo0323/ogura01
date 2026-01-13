@@ -1,0 +1,148 @@
+.midasi {
+  font-size: 40px;
+  font-weight: 700;
+  color: #2c3e50;
+  padding: 20px 30px;
+  border-left: 8px solid #3498db;
+  background: #f4f8fb;
+  letter-spacing: 2px;
+}
+
+
+.center {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.text1 {
+  text-align: center;
+　ont-size: 36px;
+  font-weight: bold;
+  color: #2c3e50;
+  padding: 15px 20px;
+  background: #f4f8fb;
+  border-left: 6px solid #3498db;
+  margin-bottom: 30px;
+}
+.text2 {
+  text-align: center;
+  ont-size: 36px;
+  font-weight: bold;
+  color: #2c3e50;
+  padding: 15px 20px;
+  background: #f4f8fb;
+  border-left: 6px solid #3498db;
+  margin-bottom: 30px;
+}
+.text3 {
+  text-align: center;
+  nt-size: 36px;
+  font-weight: bold;
+  color: #2c3e50;
+  padding: 15px 20px;
+  background: #f4f8fb;
+  border-left: 6px solid #3498db;
+  margin-bottom: 30px;
+}
+.text4 {
+  text-align: center;
+  nt-size: 36px;
+  font-weight: bold;
+  color: #2c3e50;
+  padding: 15px 20px;
+  background: #f4f8fb;
+  border-left: 6px solid #3498db;
+  margin-bottom: 30px;
+}
+.text5 {
+  text-align: center;
+  nt-size: 36px;
+  font-weight: bold;
+  color: #2c3e50;
+  padding: 15px 20px;
+  background: #f4f8fb;
+  border-left: 6px solid #3498db;
+  margin-bottom: 30px;
+}
+
+
+.bun0 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #333;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.bun1 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background: #f9fafb;
+  border-left: 4px solid #3498db;
+}
+.bun2 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background: #f9fafb;
+  border-left: 4px solid #3498db;
+}
+.bun3 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background: #f9fafb;
+  border-left: 4px solid #3498db;
+}
+.bun4 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background: #f9fafb;
+  border-left: 4px solid #3498db;
+}
+.bun5 {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background: #f9fafb;
+  border-left: 4px solid #3498db;
+}
+.link-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+  transition: 0.3s;
+}
+
+.link-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
